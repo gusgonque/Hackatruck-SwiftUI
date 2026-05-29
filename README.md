@@ -1,18 +1,27 @@
 # Hackatruck SwiftUI
 
-Repositorio com exercicios praticos de SwiftUI desenvolvidos durante atividades do Hackatruck. Em vez de um unico aplicativo final, o repositorio reune pequenos projetos de aula para praticar fundamentos de interface declarativa no ecossistema iOS.
+Repositório com exercícios práticos de SwiftUI desenvolvidos durante o curso **Práticas de Cloud Services usando Swift com ênfase em Serviços Cognitivos**, certificado pelo Instituto de Pesquisas Eldorado.
 
-## Conteudo praticado
+Em vez de um único aplicativo final, o repositório reúne pequenos projetos de aula para praticar fundamentos de interface declarativa no ecossistema iOS.
 
-- Criacao de telas com SwiftUI.
+## Certificado relacionado
+
+- Curso: Práticas de Cloud Services usando Swift com ênfase em Serviços Cognitivos.
+- Instituição: Instituto de Pesquisas Eldorado.
+- Carga horária: 100 horas.
+- Período: 20/02/2024 a 22/03/2024.
+
+## Conteúdo praticado
+
+- Criação de telas com SwiftUI.
 - Uso de `VStack`, `HStack`, `ZStack`, `Spacer`, imagens e modificadores visuais.
 - Controle de estado com `@State`.
 - Entrada de dados com `TextField`.
-- Alertas e interacoes com botoes.
-- Navegacao entre telas com `NavigationStack` e `NavigationLink`.
-- Organizacao de abas com `TabView`.
+- Alertas e interações com botões.
+- Navegação entre telas com `NavigationStack` e `NavigationLink`.
+- Organização de abas com `TabView`.
 - Uso de assets em projetos Xcode.
-- Pequenas telas de exemplo, como saudacao, calculadora de IMC e fluxos de navegacao.
+- Pequenas telas de exemplo, como saudação, calculadora de IMC e fluxos de navegação.
 
 ## Stack
 
@@ -23,18 +32,18 @@ Repositorio com exercicios praticos de SwiftUI desenvolvidos durante atividades 
 
 ## Estrutura
 
-| Caminho | Conteudo |
+| Caminho | Conteúdo |
 | --- | --- |
-| `Aula01/` | Primeiros componentes SwiftUI, textos, imagens e layout basico. |
+| `Aula01/` | Primeiros componentes SwiftUI, textos, imagens e layout básico. |
 | `aula02/` e `Aula02_2/` | Estado, entrada de texto, imagens e alertas. |
-| `aula03/` e `aula03_2/` | Calculadora de IMC e manipulacao de estado visual. |
-| `aula04/` | Navegacao por abas com `TabView`. |
-| `aula04_02/` | Navegacao entre telas com `NavigationStack`. |
+| `aula03/` e `aula03_2/` | Calculadora de IMC e manipulação de estado visual. |
+| `aula04/` | Navegação por abas com `TabView`. |
+| `aula04_02/` | Navegação entre telas com `NavigationStack`. |
 | `aula05/` | Projeto adicional de aula em Xcode. |
 
 ## Como executar
 
-Cada pasta de aula contem um projeto Xcode separado. Para rodar um exercicio:
+Cada pasta de aula contém um projeto Xcode separado. Para rodar um exercício:
 
 1. Abra o arquivo `.xcodeproj` da aula desejada no Xcode.
 2. Selecione um simulador iOS.
@@ -50,4 +59,4 @@ aula04_02/aula04_02.xcodeproj
 
 ## Status
 
-Repositorio de estudos finalizado. Ele serve como registro de aprendizado em SwiftUI e como demonstracao de fundamentos de desenvolvimento iOS.
+Repositório de estudos finalizado. Ele serve como registro de aprendizado em SwiftUI e como demonstração de fundamentos de desenvolvimento iOS.
